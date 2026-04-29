@@ -1,0 +1,48 @@
+{
+  "app_name": "Craft Tracker",
+  "auth": {
+    "login": "Connexion",
+    "welcome": "Bienvenue"
+  },
+  "works": {
+    "total_earnings": "Revenus totaux",
+    "pending_payments": "Paiements en attente",
+    "add_new": "Ajouter un travail",
+    "title": "Titre",
+    "price": "Prix",
+    "add_btn": "Ajouter",
+    "delete": "Supprimer",
+    "mark_paid": "Payé",
+    "empty": "Aucun travail ajouté.",
+    "cancel": "Annuler",
+    "required": "Ce champ est obligatoire",
+    "paid": "Payé",
+    "pending": "En attente",
+    "edit": "Modifier",
+    "undo": "Annuler",
+    "deleted": "Travail supprimé",
+    "save": "Enregistrer",
+    "edit_btn": "Mettre à jour"
+  },
+  "themes": {
+    "spring": "Printemps",
+    "summer": "Été",
+    "autumn": "Automne",
+    "winter": "Hiver"
+  },
+  "settings": {
+    "title": "Paramètres",
+    "theme": "Thème Saisonnier",
+    "language": "Langue"
+  },
+  "sync": {
+    "title": "Synchronisation Cloud",
+    "sign_in": "Se connecter avec Google",
+    "sign_out": "Se déconnecter",
+    "backup": "Sauvegarder sur Drive",
+    "restore": "Restaurer depuis Drive",
+    "backup_success": "Sauvegarde réussie !",
+    "restore_success": "Restauration réussie ! Veuillez redémarrer l'application.",
+    "in_progress": "Traitement en cours..."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "app_name": "Craft Tracker",
+  "auth": {
+    "login": "Iniciar sesión",
+    "welcome": "Bienvenido"
+  },
+  "works": {
+    "total_earnings": "Ganancias Totales",
+    "pending_payments": "Pagos Pendientes",
+    "add_new": "Añadir Trabajo",
+    "title": "Título",
+    "price": "Precio",
+    "add_btn": "Añadir",
+    "delete": "Eliminar",
+    "mark_paid": "Pagado",
+    "empty": "Aún no se han añadido trabajos.",
+    "cancel": "Cancelar",
+    "required": "Este campo es obligatorio",
+    "paid": "Pagado",
+    "pending": "Pendiente",
+    "edit": "Editar Trabajo",
+    "undo": "Deshacer",
+    "deleted": "Trabajo eliminado",
+    "save": "Guardar",
+    "edit_btn": "Actualizar"
+  },
+  "themes": {
+    "spring": "Primavera",
+    "summer": "Verano",
+    "autumn": "Otoño",
+    "winter": "Invierno"
+  },
+  "settings": {
+    "title": "Ajustes",
+    "theme": "Tema Estacional",
+    "language": "Idioma"
+  },
+  "sync": {
+    "title": "Sincronización en la Nube",
+    "sign_in": "Iniciar sesión con Google",
+    "sign_out": "Cerrar sesión",
+    "backup": "Copia de seguridad en Drive",
+    "restore": "Restaurar desde Drive",
+    "backup_success": "¡Copia de seguridad exitosa!",
+    "restore_success": "¡Restauración exitosa! Por favor, reinicie la aplicación.",
+    "in_progress": "Procesando..."
+  }
+}

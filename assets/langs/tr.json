@@ -1,0 +1,48 @@
+{
+  "app_name": "Craft Tracker",
+  "auth": {
+    "login": "Giriş Yap",
+    "welcome": "Hoş Geldiniz"
+  },
+  "works": {
+    "total_earnings": "Toplam Kazanç",
+    "pending_payments": "Bekleyen Ödeme",
+    "add_new": "Yeni İş Ekle",
+    "title": "İş Adı",
+    "price": "Fiyat",
+    "add_btn": "Ekle",
+    "delete": "Sil",
+    "mark_paid": "Ödendi",
+    "empty": "Henüz hiç iş eklemediniz.",
+    "cancel": "İptal",
+    "required": "Bu alan zorunludur",
+    "paid": "Ödenenler",
+    "pending": "Bekleyenler",
+    "edit": "İşi Düzenle",
+    "undo": "Geri Al",
+    "deleted": "İş silindi",
+    "save": "Kaydet",
+    "edit_btn": "Güncelle"
+  },
+  "themes": {
+    "spring": "Bahar",
+    "summer": "Yaz",
+    "autumn": "Sonbahar",
+    "winter": "Kış"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "theme": "Mevsim Teması",
+    "language": "Dil"
+  },
+  "sync": {
+    "title": "Bulut Senkronizasyon",
+    "sign_in": "Google ile Giriş Yap",
+    "sign_out": "Çıkış Yap",
+    "backup": "Drive'a Yedekle",
+    "restore": "Drive'dan Geri Yükle",
+    "backup_success": "Yedekleme başarılı!",
+    "restore_success": "Geri yükleme başarılı! Lütfen uygulamayı yeniden başlatın.",
+    "in_progress": "İşleniyor..."
+  }
+}
