@@ -1,7 +1,4 @@
 # 🧶 Craft Tracker
-
-Annemin el işi takip uygulaması — Flutter ile geliştirilmiş, Google Drive yedekleme destekli kişisel iş takip aracı.
-
 ## ✨ Özellikler
 
 - 📋 El işi projelerini ekleme, düzenleme ve takip etme
